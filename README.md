@@ -24,7 +24,7 @@ Student-Study-Portal-Django is a versatile web application built with Django, of
 ## Setup
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/CodeWithRanjHa/Student-Study-Portal-Django.git
+    git clone https://https://github.com/justkuldeep/Student-study_portal-django.git
     ```
 
 2. **Navigate to the project directory:**
